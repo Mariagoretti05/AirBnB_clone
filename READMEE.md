@@ -1,0 +1,1 @@
+Goretti is ,many things, a designer, a PM, a frontend developer, Backed dev etc.
